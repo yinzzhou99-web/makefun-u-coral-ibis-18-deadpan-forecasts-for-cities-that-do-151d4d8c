@@ -6,7 +6,7 @@ Stdlib only, deterministic, no network.
 
 import os
 
-LINE = "In Grimblesnatch, expect 41 centimetres of sideways rain, a low of minus 9, and one confused seagull circling the town hall until Thursday."
+LINE = "In Slumberwick, expect 12 centimetres of vertical hail, a wind chill of minus 14, and the mayor's umbrella, last seen above the harbour, still missing."
 
 
 def main():
